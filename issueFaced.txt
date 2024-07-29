@@ -1,0 +1,7 @@
+If socket not connected.
+
+pip install python-engineio==3.13.2
+
+pip install python-socketio==4.6.1
+
+from github's udacity/self-driving-car-sim/issues/13
