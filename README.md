@@ -1,3 +1,7 @@
+# You need to download self driving car simulator first from udacity, to download you can visit this link
+```bash
+https://github.com/udacity/self-driving-car-sim
+```
 
 # STEPS to run this project:
 
@@ -45,7 +49,8 @@ Now open your simulator in Autonomous mood & run
 
 # Authors:
 ```bash
-Author: Kiran Shidruk
-Email: kiran.shidruk.us@gmail.com
+Author: Steven Sullivan, Stavan Bhatt, Kiran Shidruk
+Email: sas683@drexel.edu, sb4597@drexel.edu, kus26@drexel.edu
+
 ```
 
