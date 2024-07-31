@@ -49,8 +49,8 @@ Now open your simulator in Autonomous mood & run
 
 # Authors:
 ```bash
-Author: Steven Sullivan, Stavan Bhatt, Kiran Shidruk
-Email: sas683@drexel.edu, sb4597@drexel.edu, kus26@drexel.edu
+Author: Kiran Shidruk, Steven Sullivan, Stavan Bhatt
+Email: kus26@drexel.edu, sas683@drexel.edu, sb4597@drexel.edu
 
 ```
 
