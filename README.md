@@ -9,7 +9,7 @@ https://github.com/udacity/self-driving-car-sim
 Clone the repository
 
 ```bash
-https://github.com/kiran-shidruk/Self-Driving-Car-System.git
+https://github.com/kiranshidruk/Self-Driving-Car.git
 ```
 
 ## STEP 02: 
