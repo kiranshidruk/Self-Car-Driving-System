@@ -14,7 +14,11 @@ Create an environment & activate
 
 
 ```bash
-conda create -n sdcar python=3.8 -y
+conda create -n selfdrivingcar python=3.8 -y
+```
+
+```bash
+conda activate selfdrivingcar
 ```
 
 If python=3.8 is not available from the current channels for the osx-arm64 platform on macOS then use
