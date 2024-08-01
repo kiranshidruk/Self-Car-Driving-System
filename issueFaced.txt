@@ -1,4 +1,4 @@
-If socket not connected.
+If socket not connected and car is not running in autonomous mode in udacity after running drive.py
 
 pip install python-engineio==3.13.2
 
