@@ -8,9 +8,6 @@ https://github.com/udacity/self-driving-car-sim
 ## STEP 01: 
 Clone the repository
 
-```bash
-https://github.com/kiranshidruk/Self-Driving-Car.git
-```
 
 ## STEP 02: 
 Create an environment & activate
